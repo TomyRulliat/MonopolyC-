@@ -1,0 +1,44 @@
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.exe
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.deps.json
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.runtimeconfig.json
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.dll
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.pdb
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.csproj.AssemblyReference.cache
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfoInputs.cache
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfo.cs
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.csproj.CoreCompileInputs.cache
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.dll
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\refint\MonopolyGame.dll
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.pdb
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.genruntimeconfig.cache
+C:\Users\tomy.rulliat\OneDrive - BERGER-LEVRAULT\Individual\Bureau\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\ref\MonopolyGame.dll
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.exe
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.deps.json
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.runtimeconfig.json
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.dll
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.pdb
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.csproj.AssemblyReference.cache
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfoInputs.cache
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfo.cs
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.csproj.CoreCompileInputs.cache
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.dll
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\refint\MonopolyGame.dll
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.pdb
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.genruntimeconfig.cache
+F:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\ref\MonopolyGame.dll
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.exe
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.deps.json
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.runtimeconfig.json
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.dll
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\bin\Release\net6.0\MonopolyGame.pdb
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfoInputs.cache
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.AssemblyInfo.cs
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.csproj.CoreCompileInputs.cache
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.dll
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\refint\MonopolyGame.dll
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.pdb
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\MonopolyGame.genruntimeconfig.cache
+D:\Stage1\Cours C#\MonopolyGame\MonopolyGame\obj\Release\net6.0\ref\MonopolyGame.dll
